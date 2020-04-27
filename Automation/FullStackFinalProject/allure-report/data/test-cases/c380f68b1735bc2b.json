@@ -1,0 +1,238 @@
+{
+  "uid" : "c380f68b1735bc2b",
+  "name" : "Test01: Login to orangeHRM with DB",
+  "fullName" : "SanityTests.orangeHRMDB.test01_loginDB",
+  "historyId" : "ba80c520a57557ad204b371449737676",
+  "time" : {
+    "start" : 1587213197307,
+    "stop" : 1587213202362,
+    "duration" : 5055
+  },
+  "description" : "Test Description: Login to orangeHRM Demo web site with DB",
+  "descriptionHtml" : "<p>Test Description: Login to orangeHRM Demo web site with DB</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "startSession",
+    "time" : {
+      "start" : 1587213178290,
+      "stop" : 1587213197256,
+      "duration" : 18966
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Test Description: Login to orangeHRM Demo web site with DB",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Login orangeHRM Flow with DB Credentials",
+      "time" : {
+        "start" : 1587213197362,
+        "stop" : 1587213202201,
+        "duration" : 4839
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Get the Credentials From DB",
+        "time" : {
+          "start" : 1587213197367,
+          "stop" : 1587213197504,
+          "duration" : 137
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "query",
+          "value" : "SELECT user_name, password from Credentials WHERE id = 2"
+        } ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "stepsCount" : 0,
+        "hasContent" : true
+      }, {
+        "name" : "Send Text to Text-Field",
+        "time" : {
+          "start" : 1587213197532,
+          "stop" : 1587213197633,
+          "duration" : 101
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "elem",
+          "value" : "[[ChromeDriver: chrome on WINDOWS (5c5f5eafc13bfa751806d3ce61cf1e8c)] -> name: txtUsername]"
+        }, {
+          "name" : "value",
+          "value" : "Admin"
+        } ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "stepsCount" : 0,
+        "hasContent" : true
+      }, {
+        "name" : "Send Text to Text-Field",
+        "time" : {
+          "start" : 1587213197649,
+          "stop" : 1587213197734,
+          "duration" : 85
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "elem",
+          "value" : "[[ChromeDriver: chrome on WINDOWS (5c5f5eafc13bfa751806d3ce61cf1e8c)] -> name: txtPassword]"
+        }, {
+          "name" : "value",
+          "value" : "admin123"
+        } ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "stepsCount" : 0,
+        "hasContent" : true
+      }, {
+        "name" : "Click on Element",
+        "time" : {
+          "start" : 1587213197751,
+          "stop" : 1587213202201,
+          "duration" : 4450
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "elem",
+          "value" : "[[ChromeDriver: chrome on WINDOWS (5c5f5eafc13bfa751806d3ce61cf1e8c)] -> name: Submit]"
+        } ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "stepsCount" : 0,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 4,
+      "hasContent" : true
+    }, {
+      "name" : "Verify Text in Element",
+      "time" : {
+        "start" : 1587213202279,
+        "stop" : 1587213202360,
+        "duration" : 81
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "elem",
+        "value" : "[[ChromeDriver: chrome on WINDOWS (5c5f5eafc13bfa751806d3ce61cf1e8c)] -> xpath: //div[@class='head']/h1]"
+      }, {
+        "name" : "expectedValue",
+        "value" : "Dashboard"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 6,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "closeSession",
+    "time" : {
+      "start" : 1587213203150,
+      "stop" : 1587213204080,
+      "duration" : 930
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "afterMethod",
+    "time" : {
+      "start" : 1587213202532,
+      "stop" : 1587213203123,
+      "duration" : 591
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "SanityTests.orangeHRMDB"
+  }, {
+    "name" : "testClass",
+    "value" : "SanityTests.orangeHRMDB"
+  }, {
+    "name" : "testMethod",
+    "value" : "test01_loginDB"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Web Tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "SanityTests.orangeHRMDB"
+  }, {
+    "name" : "host",
+    "value" : "MOE19"
+  }, {
+    "name" : "thread",
+    "value" : "29916@MOE19.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "PlatformName",
+    "value" : "web"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c380f68b1735bc2b.json",
+  "parameterValues" : [ "web" ]
+}

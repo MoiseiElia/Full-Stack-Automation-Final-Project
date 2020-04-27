@@ -1,0 +1,31 @@
+[ {
+  "uid" : "39929ddeabf75152",
+  "name" : "Test01: Add Team and Verify",
+  "time" : {
+    "start" : 1587213310089,
+    "stop" : 1587213313113,
+    "duration" : 3024
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "beed1e814e7d4e86",
+  "name" : "Test01: Login to orangeHRM with DB",
+  "time" : {
+    "start" : 1587213858491,
+    "stop" : 1587213860567,
+    "duration" : 2076
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fca432f597eefa7b",
+  "name" : "Test01: Verify Screen Resolution",
+  "time" : {
+    "start" : 1587213263677,
+    "stop" : 1587213264500,
+    "duration" : 823
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

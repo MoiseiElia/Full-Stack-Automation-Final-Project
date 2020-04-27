@@ -1,0 +1,459 @@
+{
+  "ba80c520a57557ad204b371449737676" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "3a7f285755a25ea9",
+      "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/30/allure/#testresult/3a7f285755a25ea9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587213197307,
+        "stop" : 1587213202362,
+        "duration" : 5055
+      }
+    }, {
+      "uid" : "96acee34543cf54b",
+      "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/29/allure/#testresult/96acee34543cf54b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587213076591,
+        "stop" : 1587213078712,
+        "duration" : 2121
+      }
+    }, {
+      "uid" : "e1cf2ff9794cb98f",
+      "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/28/allure/#testresult/e1cf2ff9794cb98f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587170678883,
+        "stop" : 1587170680920,
+        "duration" : 2037
+      }
+    } ]
+  },
+  "1b927cbb5721e193c715e2a63ccc567c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "23424727017383e6",
+      "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/29/allure/#testresult/23424727017383e6",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest, Method, Object[], ITestResult> into a @AfterMethod annotated afterMethod.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1587170326838,
+        "stop" : 1587170326841,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "d955c06ed5cede9c",
+      "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/28/allure/#testresult/d955c06ed5cede9c",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest, Method, Object[], ITestResult> into a @AfterMethod annotated afterMethod.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1587170326838,
+        "stop" : 1587170326841,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "91d3467fa22a2dc1",
+      "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/27/allure/#testresult/91d3467fa22a2dc1",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest, Method, Object[], ITestResult> into a @AfterMethod annotated afterMethod.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1587170326838,
+        "stop" : 1587170326841,
+        "duration" : 3
+      }
+    } ]
+  },
+  "ac4055a56cd9bdd276ebd4f1799994ea" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "f31957358747583e",
+      "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/19/allure/#testresult/f31957358747583e",
+      "status" : "broken",
+      "statusDetails" : "Invalid platform name stated",
+      "time" : {
+        "start" : 1587160726765,
+        "stop" : 1587160726768,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "5f7090ce42665ef9",
+      "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/18/allure/#testresult/5f7090ce42665ef9",
+      "status" : "broken",
+      "statusDetails" : "Invalid platform name stated",
+      "time" : {
+        "start" : 1587160726765,
+        "stop" : 1587160726768,
+        "duration" : 3
+      }
+    } ]
+  },
+  "a8de07bb68bb12862e0e1ed1e7e8c2ed" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 2,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "264ade5ae39ff250",
+      "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/29/allure/#testresult/264ade5ae39ff250",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587168767925,
+        "stop" : 1587168771015,
+        "duration" : 3090
+      }
+    }, {
+      "uid" : "4c25167bbce8eabe",
+      "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/28/allure/#testresult/4c25167bbce8eabe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587168767925,
+        "stop" : 1587168771015,
+        "duration" : 3090
+      }
+    }, {
+      "uid" : "2cd8f85e990b0c7b",
+      "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/27/allure/#testresult/2cd8f85e990b0c7b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587168767925,
+        "stop" : 1587168771015,
+        "duration" : 3090
+      }
+    }, {
+      "uid" : "a27f71d3e7874aa3",
+      "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/26/allure/#testresult/a27f71d3e7874aa3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587168767925,
+        "stop" : 1587168771015,
+        "duration" : 3090
+      }
+    }, {
+      "uid" : "448a7456828784ad",
+      "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/25/allure/#testresult/448a7456828784ad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587168767925,
+        "stop" : 1587168771015,
+        "duration" : 3090
+      }
+    } ]
+  },
+  "981bfda99e7c77dbebee812011ab82a9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 10,
+      "unknown" : 0,
+      "total" : 10
+    },
+    "items" : [ {
+      "uid" : "4fae385ae28b63df",
+      "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/29/allure/#testresult/4fae385ae28b63df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587165155762,
+        "stop" : 1587165157933,
+        "duration" : 2171
+      }
+    }, {
+      "uid" : "9e1a2ddd15364fd9",
+      "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/28/allure/#testresult/9e1a2ddd15364fd9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587165155762,
+        "stop" : 1587165157933,
+        "duration" : 2171
+      }
+    }, {
+      "uid" : "5c531e3f93694659",
+      "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/27/allure/#testresult/5c531e3f93694659",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587165155762,
+        "stop" : 1587165157933,
+        "duration" : 2171
+      }
+    }, {
+      "uid" : "bd2d87e83bb1ade8",
+      "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/26/allure/#testresult/bd2d87e83bb1ade8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587165155762,
+        "stop" : 1587165157933,
+        "duration" : 2171
+      }
+    }, {
+      "uid" : "30cedcde8080a994",
+      "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/25/allure/#testresult/30cedcde8080a994",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587165155762,
+        "stop" : 1587165157933,
+        "duration" : 2171
+      }
+    } ]
+  },
+  "cc5829041ccc328e683b7866bd520d5b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "87e388c49e39dfa8",
+      "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/29/allure/#testresult/87e388c49e39dfa8",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest, Method, Object[], ITestResult> into a @AfterMethod annotated afterMethod.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1587170681142,
+        "stop" : 1587170681144,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "a0838ccbb5161a9e",
+      "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/28/allure/#testresult/a0838ccbb5161a9e",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest, Method, Object[], ITestResult> into a @AfterMethod annotated afterMethod.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1587170681142,
+        "stop" : 1587170681144,
+        "duration" : 2
+      }
+    } ]
+  },
+  "8ba191a9f1bcc2b92d4473ed5f37f45c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "72a3c307378bff89",
+      "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/29/allure/#testresult/72a3c307378bff89",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587170230493,
+        "stop" : 1587170231279,
+        "duration" : 786
+      }
+    }, {
+      "uid" : "5fe7f5ce8db0a498",
+      "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/28/allure/#testresult/5fe7f5ce8db0a498",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587170230493,
+        "stop" : 1587170231279,
+        "duration" : 786
+      }
+    }, {
+      "uid" : "2e7a8dee45220195",
+      "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/27/allure/#testresult/2e7a8dee45220195",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587170230493,
+        "stop" : 1587170231279,
+        "duration" : 786
+      }
+    } ]
+  },
+  "ade85ace0b928ccf43b0f62534a64af4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "43e293ffc4bdd5f9",
+      "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/29/allure/#testresult/43e293ffc4bdd5f9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587170324117,
+        "stop" : 1587170326702,
+        "duration" : 2585
+      }
+    }, {
+      "uid" : "83226755ebc635aa",
+      "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/28/allure/#testresult/83226755ebc635aa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587170324117,
+        "stop" : 1587170326702,
+        "duration" : 2585
+      }
+    }, {
+      "uid" : "efca4bf66c0fa7a8",
+      "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/27/allure/#testresult/efca4bf66c0fa7a8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587170324117,
+        "stop" : 1587170326702,
+        "duration" : 2585
+      }
+    } ]
+  },
+  "45e05b99dde0f8f34c2487f05d2c3813" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "2c72e65437f7c5e0",
+      "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/29/allure/#testresult/2c72e65437f7c5e0",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest, Method, Object[], ITestResult> into a @AfterMethod annotated afterMethod.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1587170231586,
+        "stop" : 1587170231589,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "e771fc51a364c5f",
+      "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/28/allure/#testresult/e771fc51a364c5f",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest, Method, Object[], ITestResult> into a @AfterMethod annotated afterMethod.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1587170231586,
+        "stop" : 1587170231589,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "fcf3f101402c2491",
+      "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/27/allure/#testresult/fcf3f101402c2491",
+      "status" : "broken",
+      "statusDetails" : "\nCan inject only one of <ITestContext, XmlTest, Method, Object[], ITestResult> into a @AfterMethod annotated afterMethod.\nFor more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection",
+      "time" : {
+        "start" : 1587170231586,
+        "stop" : 1587170231589,
+        "duration" : 3
+      }
+    } ]
+  },
+  "5b749a144265bde32e03cc68f9767bd7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "dcb29883bf24be58",
+      "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/19/allure/#testresult/dcb29883bf24be58",
+      "status" : "broken",
+      "statusDetails" : "Invalid platform name stated",
+      "time" : {
+        "start" : 1587160438107,
+        "stop" : 1587160438110,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "958f6968d7a8b041",
+      "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/18/allure/#testresult/958f6968d7a8b041",
+      "status" : "broken",
+      "statusDetails" : "Invalid platform name stated",
+      "time" : {
+        "start" : 1587160438107,
+        "stop" : 1587160438110,
+        "duration" : 3
+      }
+    } ]
+  },
+  "3234edde63925a511e6ba51831ca6b4d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "fac1e71a6110bd7e",
+      "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/29/allure/#testresult/fac1e71a6110bd7e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587168666178,
+        "stop" : 1587168667115,
+        "duration" : 937
+      }
+    }, {
+      "uid" : "a5638609db529f50",
+      "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/28/allure/#testresult/a5638609db529f50",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587168666178,
+        "stop" : 1587168667115,
+        "duration" : 937
+      }
+    }, {
+      "uid" : "bb1888c4dd9bc4b6",
+      "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/27/allure/#testresult/bb1888c4dd9bc4b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587168666178,
+        "stop" : 1587168667115,
+        "duration" : 937
+      }
+    }, {
+      "uid" : "173a9712787a4812",
+      "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/26/allure/#testresult/173a9712787a4812",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587168666178,
+        "stop" : 1587168667115,
+        "duration" : 937
+      }
+    }, {
+      "uid" : "17f6f3a8e05bc438",
+      "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/25/allure/#testresult/17f6f3a8e05bc438",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587168666178,
+        "stop" : 1587168667115,
+        "duration" : 937
+      }
+    } ]
+  }
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="33952" started-at="2020-01-28T19:41:06 IST" finished-at="2020-01-28T19:41:40 IST">
+    <groups>
+      <group name="T1">
+        <method signature="WebManager.webMng()[pri:0, instance:Lesson01.WebManager@3ee0fea4]" name="webMng" class="Lesson01.WebManager"/>
+      </group> <!-- T1 -->
+    </groups>
+    <test name="Test" duration-ms="33952" started-at="2020-01-28T19:41:06 IST" finished-at="2020-01-28T19:41:40 IST">
+      <class name="Lesson01.WebManager">
+        <test-method status="PASS" signature="init()[pri:0, instance:Lesson01.WebManager@3ee0fea4]" name="init" is-config="true" duration-ms="28487" started-at="2020-01-28T19:41:06 IST" finished-at="2020-01-28T19:41:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="webMng()[pri:0, instance:Lesson01.WebManager@3ee0fea4]" name="webMng" duration-ms="5235" started-at="2020-01-28T19:41:35 IST" finished-at="2020-01-28T19:41:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webMng -->
+      </class> <!-- Lesson01.WebManager -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

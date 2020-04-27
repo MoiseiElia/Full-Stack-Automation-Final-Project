@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+        <Environment>
+    <url>http://atidcollege.co.il/Xamples/bmi/</url>
+    <weight>80</weight>
+    <height>180</height>
+    <calc>calculate_data</calc>
+
+
+</Environment>

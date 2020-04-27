@@ -1,0 +1,71 @@
+[ {
+  "buildOrder" : 31,
+  "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/31/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 30,
+  "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/30/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 29,
+  "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/29/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Test defects" : 3
+  }
+}, {
+  "buildOrder" : 28,
+  "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/28/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Test defects" : 3
+  }
+}, {
+  "buildOrder" : 27,
+  "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/27/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Test defects" : 2
+  }
+}, {
+  "buildOrder" : 26,
+  "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/26/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 25,
+  "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/25/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 24,
+  "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/24/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 23,
+  "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/23/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 22,
+  "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/22/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 19,
+  "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/19/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Test defects" : 2
+  }
+}, {
+  "buildOrder" : 18,
+  "reportUrl" : "http://localhost:9089/job/Full%20Stack%20Final%20Project%20Web/18/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Test defects" : 2
+  }
+} ]

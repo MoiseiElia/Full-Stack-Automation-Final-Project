@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Environment>
+    <!-- TimeOut -->
+    <TimeOut>5</TimeOut>
+
+    <!-- Platform -->
+    <PlatformName>api</PlatformName>
+
+    <!-- Web -->
+    <BrowserName>Chrome</BrowserName>
+    <url>https://opensource-demo.orangehrmlive.com</url>
+    <ImageRepo>./imageRepository/</ImageRepo>
+
+    <!-- Mobile -->
+    <UDID>24945fb949ea</UDID>
+    <APP_PACKAGE>com.shivgadhia.android.ukMortgageCalc</APP_PACKAGE>
+    <APP_ACTIVITY>.MainActivity</APP_ACTIVITY>
+
+    <!-- Web User -->
+    <UserName>Linda Anderson</UserName>
+    <User>LindaJ</User>
+    <Password>12345qwert</Password>
+    <ConfirmPassword>12345qwert</ConfirmPassword>
+    <LoginUser>Admin</LoginUser>
+    <LoginPassword>admin123</LoginPassword>
+
+
+    <!-- API -->
+    <url-api>http://localhost:3000</url-api>
+    <APIUser>admin</APIUser>
+    <APIPassword>admin</APIPassword>
+
+    <!-- Electron -->
+    <ElectronDriverPath>./Drivers/electron.exe</ElectronDriverPath>
+    <ElectronAppPath>C:/Automation/Electron/Electron API Demos-win32-ia32/Electron API Demos.exe</ElectronAppPath>
+
+    <!-- Desktop -->
+    <CalculatorApp>Microsoft.WindowsCalculator_8wekyb3d8bbwe!App</CalculatorApp>
+    <Appium_Server>http://localhost:4723</Appium_Server>
+
+    <!-- DB -->
+    <DBURL>jdbc:mysql://remotemysql.com:3306/yX2KnerxBR</DBURL>
+    <DBUser>yX2KnerxBR</DBUser>
+    <DBPassword>OJq06zfsaP</DBPassword>
+
+</Environment>
