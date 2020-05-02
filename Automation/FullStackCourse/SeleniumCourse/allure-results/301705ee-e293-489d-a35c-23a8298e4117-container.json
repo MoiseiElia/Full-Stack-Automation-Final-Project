@@ -1,0 +1,1 @@
+{"uuid":"301705ee-e293-489d-a35c-23a8298e4117","name":"Lesson01.WebManager","children":["8d25fca1-dec4-4454-82f4-7ede3f9460f5"],"befores":[{"name":"init","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1579626644717,"stop":1579626663129}],"afters":[],"links":[],"start":1579626644681,"stop":1579626665060}

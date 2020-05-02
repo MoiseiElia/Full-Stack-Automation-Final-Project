@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Apr 18 15:35:10 IDT 2020","Sat Apr 18 15:35:13 IDT 2020","3024","Suite","API Tests","SanityTests.grafanaAPI","SanityTests.grafanaAPI","test01_addTeamAndVerify","Test01: Add Team and Verify","Test Description: Add Team to Grafana and Verify"
+"passed","Sat Apr 18 15:44:18 IDT 2020","Sat Apr 18 15:44:20 IDT 2020","2076","Suite","Web Tests","SanityTests.orangeHRMDB","SanityTests.orangeHRMDB","test01_loginDB","Test01: Login to orangeHRM with DB","Test Description: Login to orangeHRM Demo web site with DB"
+"passed","Sat Apr 18 15:34:23 IDT 2020","Sat Apr 18 15:34:24 IDT 2020","823","Suite","Electron Tests","SanityTests.electronDemo","SanityTests.electronDemo","test02_addAndVerifyNewRowCreated","Test01: Verify Screen Resolution","Test Description: Getting Resolution from App and Verify it"

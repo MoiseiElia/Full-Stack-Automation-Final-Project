@@ -1,0 +1,60 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "SanityTests",
+    "children" : [ {
+      "name" : "electronDemo",
+      "children" : [ {
+        "name" : "test02_addAndVerifyNewRowCreated",
+        "uid" : "fca432f597eefa7b",
+        "parentUid" : "d8fc0dd4397f44c7b71a4b95a6e265a6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1587213263677,
+          "stop" : 1587213264500,
+          "duration" : 823
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      } ],
+      "uid" : "d8fc0dd4397f44c7b71a4b95a6e265a6"
+    }, {
+      "name" : "grafanaAPI",
+      "children" : [ {
+        "name" : "test01_addTeamAndVerify",
+        "uid" : "39929ddeabf75152",
+        "parentUid" : "21a5b1c1266292cb5f58fee372b7419b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1587213310089,
+          "stop" : 1587213313113,
+          "duration" : 3024
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      } ],
+      "uid" : "21a5b1c1266292cb5f58fee372b7419b"
+    }, {
+      "name" : "orangeHRMDB",
+      "children" : [ {
+        "name" : "test01_loginDB",
+        "uid" : "beed1e814e7d4e86",
+        "parentUid" : "61787999e91399bec71284c203a99371",
+        "status" : "passed",
+        "time" : {
+          "start" : 1587213858491,
+          "stop" : 1587213860567,
+          "duration" : 2076
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      } ],
+      "uid" : "61787999e91399bec71284c203a99371"
+    } ],
+    "uid" : "e062ce92619bf6813c57937db86cc3fd"
+  } ]
+}

@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1841dbe5-90d7-4b8a-ab53-39c0458b7aab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="15" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VvdlNBIymRe7yr9OpHIi3gV0tv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="inlay.hints.JAVA" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Automation\FullStackFinalProject" />
+      <recent name="C:\Automation\FullStackFinalProject\Drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.orangeHRMDB">
+    <configuration name="calculatorDesktop" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FullStackFinalProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SanityTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SanityTests" />
+      <option name="MAIN_CLASS_NAME" value="SanityTests.calculatorDesktop" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="electronDemo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FullStackFinalProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SanityTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SanityTests" />
+      <option name="MAIN_CLASS_NAME" value="SanityTests.electronDemo" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="grafanaAPI" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FullStackFinalProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SanityTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SanityTests" />
+      <option name="MAIN_CLASS_NAME" value="SanityTests.grafanaAPI" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="grafanaAPI.test03_deleteTeamAndVerify" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FullStackFinalProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SanityTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SanityTests" />
+      <option name="MAIN_CLASS_NAME" value="SanityTests.grafanaAPI" />
+      <option name="METHOD_NAME" value="test03_deleteTeamAndVerify" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="orangeHRMDB" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FullStackFinalProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SanityTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SanityTests" />
+      <option name="MAIN_CLASS_NAME" value="SanityTests.orangeHRMDB" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.orangeHRMDB" />
+        <item itemvalue="TestNG.grafanaAPI" />
+        <item itemvalue="TestNG.calculatorDesktop" />
+        <item itemvalue="TestNG.electronDemo" />
+        <item itemvalue="TestNG.grafanaAPI.test03_deleteTeamAndVerify" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1841dbe5-90d7-4b8a-ab53-39c0458b7aab" name="Default Changelist" comment="" />
+      <created>1578137652693</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578137652693</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2579" y="295" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1586932953917">
+      <screen x="1920" y="0" width="1858" height="1080" />
+    </state>
+    <state x="659" y="295" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/-1920.0.1858.1080/0.0.1858.1080@0.0.1858.1080" timestamp="1581510427712" />
+    <state x="2579" y="295" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1837.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1586932953917" />
+    <state x="659" y="295" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1582403688863" />
+    <state x="2012" y="92" width="1674" height="896" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1586931439112">
+      <screen x="1920" y="0" width="1858" height="1080" />
+    </state>
+    <state x="2012" y="92" width="1674" height="896" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1837.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1586931439112" />
+    <state x="-1282" y="187" key="#orangeHRMWeb" timestamp="1582111671151">
+      <screen x="-1920" y="0" width="1858" height="1080" />
+    </state>
+    <state x="-1282" y="187" key="#orangeHRMWeb/-1920.0.1858.1080/0.0.1858.1080@-1920.0.1858.1080" timestamp="1582111671151" />
+    <state width="1815" height="321" key="GridCell.Tab.0.bottom" timestamp="1587235796578">
+      <screen x="1920" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1798" height="234" key="GridCell.Tab.0.bottom/-1920.0.1858.1080/0.0.1858.1080/1920.0.1920.1050@0.0.1858.1080" timestamp="1581518223310" />
+    <state width="1815" height="234" key="GridCell.Tab.0.bottom/-1920.0.1858.1080/0.0.1858.1080@-1920.0.1858.1080" timestamp="1582115777303" />
+    <state width="1798" height="234" key="GridCell.Tab.0.bottom/-1920.0.1858.1080/0.0.1858.1080@0.0.1858.1080" timestamp="1581516115025" />
+    <state width="1815" height="321" key="GridCell.Tab.0.bottom/0.0.1837.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1587235796578" />
+    <state width="1815" height="321" key="GridCell.Tab.0.bottom/0.0.1837.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1587016939253" />
+    <state width="1815" height="234" key="GridCell.Tab.0.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1582404713135" />
+    <state width="1815" height="321" key="GridCell.Tab.0.center" timestamp="1587235796578">
+      <screen x="1920" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1798" height="234" key="GridCell.Tab.0.center/-1920.0.1858.1080/0.0.1858.1080/1920.0.1920.1050@0.0.1858.1080" timestamp="1581518223309" />
+    <state width="1815" height="234" key="GridCell.Tab.0.center/-1920.0.1858.1080/0.0.1858.1080@-1920.0.1858.1080" timestamp="1582115777303" />
+    <state width="1798" height="234" key="GridCell.Tab.0.center/-1920.0.1858.1080/0.0.1858.1080@0.0.1858.1080" timestamp="1581516115025" />
+    <state width="1815" height="321" key="GridCell.Tab.0.center/0.0.1837.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1587235796578" />
+    <state width="1815" height="321" key="GridCell.Tab.0.center/0.0.1837.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1587016939253" />
+    <state width="1815" height="234" key="GridCell.Tab.0.center/0.0.1858.1080@0.0.1858.1080" timestamp="1582404713134" />
+    <state width="1815" height="321" key="GridCell.Tab.0.left" timestamp="1587235796578">
+      <screen x="1920" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1798" height="234" key="GridCell.Tab.0.left/-1920.0.1858.1080/0.0.1858.1080/1920.0.1920.1050@0.0.1858.1080" timestamp="1581518223309" />
+    <state width="1815" height="234" key="GridCell.Tab.0.left/-1920.0.1858.1080/0.0.1858.1080@-1920.0.1858.1080" timestamp="1582115777303" />
+    <state width="1798" height="234" key="GridCell.Tab.0.left/-1920.0.1858.1080/0.0.1858.1080@0.0.1858.1080" timestamp="1581516115025" />
+    <state width="1815" height="321" key="GridCell.Tab.0.left/0.0.1837.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1587235796578" />
+    <state width="1815" height="321" key="GridCell.Tab.0.left/0.0.1837.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1587016939253" />
+    <state width="1815" height="234" key="GridCell.Tab.0.left/0.0.1858.1080@0.0.1858.1080" timestamp="1582404713134" />
+    <state width="1815" height="321" key="GridCell.Tab.0.right" timestamp="1587235796578">
+      <screen x="1920" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1798" height="234" key="GridCell.Tab.0.right/-1920.0.1858.1080/0.0.1858.1080/1920.0.1920.1050@0.0.1858.1080" timestamp="1581518223309" />
+    <state width="1815" height="234" key="GridCell.Tab.0.right/-1920.0.1858.1080/0.0.1858.1080@-1920.0.1858.1080" timestamp="1582115777303" />
+    <state width="1798" height="234" key="GridCell.Tab.0.right/-1920.0.1858.1080/0.0.1858.1080@0.0.1858.1080" timestamp="1581516115025" />
+    <state width="1815" height="321" key="GridCell.Tab.0.right/0.0.1837.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1587235796578" />
+    <state width="1815" height="321" key="GridCell.Tab.0.right/0.0.1837.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1587016939253" />
+    <state width="1815" height="234" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1582404713135" />
+    <state width="1815" height="364" key="GridCell.Tab.1.bottom" timestamp="1586898329579">
+      <screen x="1920" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="364" key="GridCell.Tab.1.bottom/0.0.1837.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1586898329579" />
+    <state width="1815" height="364" key="GridCell.Tab.1.center" timestamp="1586898329579">
+      <screen x="1920" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="364" key="GridCell.Tab.1.center/0.0.1837.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1586898329579" />
+    <state width="1815" height="364" key="GridCell.Tab.1.left" timestamp="1586898329579">
+      <screen x="1920" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="364" key="GridCell.Tab.1.left/0.0.1837.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1586898329579" />
+    <state width="1815" height="364" key="GridCell.Tab.1.right" timestamp="1586898329579">
+      <screen x="1920" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="364" key="GridCell.Tab.1.right/0.0.1837.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1586898329579" />
+    <state x="2379" y="195" key="Maven.ArtifactSearchDialog" timestamp="1587016578884">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2379" y="195" key="Maven.ArtifactSearchDialog/0.0.1837.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1587016578884" />
+    <state x="2350" y="182" key="SettingsEditor" timestamp="1586606179584">
+      <screen x="1920" y="0" width="1858" height="1080" />
+    </state>
+    <state x="2350" y="182" key="SettingsEditor/0.0.1837.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1586606179584" />
+    <state x="2544" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1587017165533">
+      <screen x="1920" y="0" width="1858" height="1080" />
+    </state>
+    <state x="-1296" y="365" key="com.intellij.ide.util.TipDialog/-1920.0.1858.1080/0.0.1858.1080@-1920.0.1858.1080" timestamp="1582115795807" />
+    <state x="624" y="365" key="com.intellij.ide.util.TipDialog/-1920.0.1858.1080/0.0.1858.1080@0.0.1858.1080" timestamp="1581509594459" />
+    <state x="2544" y="365" key="com.intellij.ide.util.TipDialog/0.0.1837.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1587017165533" />
+    <state x="617" y="365" key="com.intellij.ide.util.TipDialog/0.0.1837.1080@0.0.1837.1080" timestamp="1586425432572" />
+    <state x="624" y="365" key="com.intellij.ide.util.TipDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1582399159389" />
+    <state x="592" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1579355402330">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="592" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1858.1080@0.0.1858.1080" timestamp="1579355402330" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FullStackFinalProject$orangeHRMWeb.ic" NAME="orangeHRMWeb Coverage Results" MODIFIED="1586530099462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>SanityTests.*</FILTER>
+    </SUITE>
+  </component>
+</project>

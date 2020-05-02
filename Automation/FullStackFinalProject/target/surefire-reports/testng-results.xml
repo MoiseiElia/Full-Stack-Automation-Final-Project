@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="19641" started-at="2020-04-18T12:44:03Z" finished-at="2020-04-18T12:44:23Z">
+    <groups>
+    </groups>
+    <test name="Web Tests" duration-ms="19641" started-at="2020-04-18T12:44:03Z" finished-at="2020-04-18T12:44:23Z">
+      <class name="SanityTests.orangeHRMDB">
+        <test-method status="PASS" signature="startSession(java.lang.String)[pri:0, instance:SanityTests.orangeHRMDB@452ba1db]" name="startSession" is-config="true" duration-ms="14795" started-at="2020-04-18T12:44:03Z" finished-at="2020-04-18T12:44:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[web]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startSession -->
+        <test-method status="PASS" signature="test01_loginDB()[pri:0, instance:SanityTests.orangeHRMDB@452ba1db]" name="test01_loginDB" duration-ms="2129" started-at="2020-04-18T12:44:18Z" description="Test01: Login to orangeHRM with DB" finished-at="2020-04-18T12:44:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01_loginDB -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:SanityTests.orangeHRMDB@452ba1db]" name="afterMethod" is-config="true" duration-ms="1436" started-at="2020-04-18T12:44:20Z" finished-at="2020-04-18T12:44:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="closeSession()[pri:0, instance:SanityTests.orangeHRMDB@452ba1db]" name="closeSession" is-config="true" duration-ms="1025" started-at="2020-04-18T12:44:22Z" finished-at="2020-04-18T12:44:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSession -->
+      </class> <!-- SanityTests.orangeHRMDB -->
+    </test> <!-- Web Tests -->
+  </suite> <!-- Suite -->
+</testng-results>

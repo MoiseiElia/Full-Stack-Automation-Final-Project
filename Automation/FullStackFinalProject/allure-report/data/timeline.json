@@ -1,0 +1,77 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "MOE19",
+    "children" : [ {
+      "name" : "28652@MOE19.main(1)",
+      "children" : [ {
+        "name" : "Test01: Login to orangeHRM with DB",
+        "uid" : "beed1e814e7d4e86",
+        "parentUid" : "df68b8bb17e8364bc873bd71100e1ee8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1587213858491,
+          "stop" : 1587213860567,
+          "duration" : 2076
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      } ],
+      "uid" : "df68b8bb17e8364bc873bd71100e1ee8"
+    }, {
+      "name" : "13152@MOE19.main(1)",
+      "children" : [ {
+        "name" : "Test01: Add Team and Verify",
+        "uid" : "39929ddeabf75152",
+        "parentUid" : "2a7c432e82e03f993e524d66323f4a13",
+        "status" : "passed",
+        "time" : {
+          "start" : 1587213310089,
+          "stop" : 1587213313113,
+          "duration" : 3024
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      } ],
+      "uid" : "2a7c432e82e03f993e524d66323f4a13"
+    }, {
+      "name" : "29916@MOE19.main(1)",
+      "children" : [ {
+        "name" : "Test01: Login to orangeHRM with DB",
+        "uid" : "c380f68b1735bc2b",
+        "parentUid" : "98641d7adb778d8a20056806c5a4b748",
+        "status" : "passed",
+        "time" : {
+          "start" : 1587213197307,
+          "stop" : 1587213202362,
+          "duration" : 5055
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      } ],
+      "uid" : "98641d7adb778d8a20056806c5a4b748"
+    }, {
+      "name" : "30360@MOE19.main(1)",
+      "children" : [ {
+        "name" : "Test01: Verify Screen Resolution",
+        "uid" : "fca432f597eefa7b",
+        "parentUid" : "28ed9236da56e57292009825c3780eb3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1587213263677,
+          "stop" : 1587213264500,
+          "duration" : 823
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      } ],
+      "uid" : "28ed9236da56e57292009825c3780eb3"
+    } ],
+    "uid" : "391cc002bf681568ba4ff9fa6e8225e3"
+  } ]
+}

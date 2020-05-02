@@ -1,0 +1,72 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Suite",
+    "children" : [ {
+      "name" : "Electron Tests",
+      "children" : [ {
+        "name" : "SanityTests.electronDemo",
+        "children" : [ {
+          "name" : "Test01: Verify Screen Resolution",
+          "uid" : "fca432f597eefa7b",
+          "parentUid" : "95f4ea9f57457770b629651d4ab3e8cf",
+          "status" : "passed",
+          "time" : {
+            "start" : 1587213263677,
+            "stop" : 1587213264500,
+            "duration" : 823
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "electron" ]
+        } ],
+        "uid" : "95f4ea9f57457770b629651d4ab3e8cf"
+      } ],
+      "uid" : "88dd1c8a90831c85bd7e904fb72432f6"
+    }, {
+      "name" : "API Tests",
+      "children" : [ {
+        "name" : "SanityTests.grafanaAPI",
+        "children" : [ {
+          "name" : "Test01: Add Team and Verify",
+          "uid" : "39929ddeabf75152",
+          "parentUid" : "9db40972b02db88800fabef1ad3d62d8",
+          "status" : "passed",
+          "time" : {
+            "start" : 1587213310089,
+            "stop" : 1587213313113,
+            "duration" : 3024
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "api" ]
+        } ],
+        "uid" : "9db40972b02db88800fabef1ad3d62d8"
+      } ],
+      "uid" : "4ed70f54fda3286e80a05bd83e56a3ad"
+    }, {
+      "name" : "Web Tests",
+      "children" : [ {
+        "name" : "SanityTests.orangeHRMDB",
+        "children" : [ {
+          "name" : "Test01: Login to orangeHRM with DB",
+          "uid" : "beed1e814e7d4e86",
+          "parentUid" : "6b66594ddbe4dee1a29056cffed53392",
+          "status" : "passed",
+          "time" : {
+            "start" : 1587213858491,
+            "stop" : 1587213860567,
+            "duration" : 2076
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "web" ]
+        } ],
+        "uid" : "6b66594ddbe4dee1a29056cffed53392"
+      } ],
+      "uid" : "021ae6ebaf24613400055f41a8f6b406"
+    } ],
+    "uid" : "29f4dcc45a0e26cd7c7462063cee854b"
+  } ]
+}

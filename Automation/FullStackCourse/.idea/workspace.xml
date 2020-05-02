@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f0d9e1b-853b-4eca-92a3-9de877599712" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JavaFXApplication" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SZLZ6kIVB6WugNTs77VqfdWJhI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Automation/FullStackCourse/SeleniumCourse/TestNGSuite.xml">
+    <configuration name="C:/Automation/FullStackCourse/SeleniumCourse/TestNGSuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumCourse" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/SeleniumCourse/TestNGSuite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebManager" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Lesson01" />
+      <option name="MAIN_CLASS_NAME" value="Lesson01.WebManager" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="getList" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="getlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="getlist" />
+      <option name="MAIN_CLASS_NAME" value="getlist.getList" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="post_List" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="post_List.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="post_List" />
+      <option name="MAIN_CLASS_NAME" value="post_List.post_List" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sample_soup" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class_jsoup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Jsoup" />
+      <option name="MAIN_CLASS_NAME" value="Class_jsoup.sample_soup" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Automation/FullStackCourse/SeleniumCourse/TestNGSuite.xml" />
+        <item itemvalue="TestNG.WebManager" />
+        <item itemvalue="TestNG.post_List" />
+        <item itemvalue="TestNG.getList" />
+        <item itemvalue="TestNG.sample_soup" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f0d9e1b-853b-4eca-92a3-9de877599712" name="Default Changelist" comment="" />
+      <created>1571766223586</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571766223586</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="521" y="199" key="#Notifications" timestamp="1577211633664">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="521" y="199" key="#Notifications/0.0.1858.1080@0.0.1858.1080" timestamp="1577211633664" />
+    <state x="521" y="199" key="#Project_Structure" timestamp="1578415758326">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="521" y="199" key="#Project_Structure/0.0.1858.1080@0.0.1858.1080" timestamp="1578415758326" />
+    <state width="1815" height="295" key="GridCell.Tab.0.bottom" timestamp="1579626988917">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="295" key="GridCell.Tab.0.bottom/-1920.0.1858.1080/0.0.1858.1080@0.0.1858.1080" timestamp="1578407975966" />
+    <state width="1815" height="295" key="GridCell.Tab.0.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1579626988917" />
+    <state width="1815" height="295" key="GridCell.Tab.0.center" timestamp="1579626988917">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="295" key="GridCell.Tab.0.center/-1920.0.1858.1080/0.0.1858.1080@0.0.1858.1080" timestamp="1578407975966" />
+    <state width="1815" height="295" key="GridCell.Tab.0.center/0.0.1858.1080@0.0.1858.1080" timestamp="1579626988917" />
+    <state width="1815" height="295" key="GridCell.Tab.0.left" timestamp="1579626988917">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="295" key="GridCell.Tab.0.left/-1920.0.1858.1080/0.0.1858.1080@0.0.1858.1080" timestamp="1578407975966" />
+    <state width="1815" height="295" key="GridCell.Tab.0.left/0.0.1858.1080@0.0.1858.1080" timestamp="1579626988917" />
+    <state width="1815" height="295" key="GridCell.Tab.0.right" timestamp="1579626988917">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="295" key="GridCell.Tab.0.right/-1920.0.1858.1080/0.0.1858.1080@0.0.1858.1080" timestamp="1578407975966" />
+    <state width="1815" height="295" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1579626988917" />
+    <state x="430" y="183" key="SettingsEditor" timestamp="1580230191830">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="430" y="183" key="SettingsEditor/0.0.1858.1080@0.0.1858.1080" timestamp="1580230191830" />
+    <state x="624" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1581509398130">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="624" y="363" key="com.intellij.ide.util.TipDialog/-1920.0.1858.1080/0.0.1858.1080@0.0.1858.1080" timestamp="1581509398130" />
+    <state x="624" y="363" key="com.intellij.ide.util.TipDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1580232583632" />
+    <state x="370" y="85" width="736" height="909" key="find.popup" timestamp="1578414274967">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="370" y="85" width="736" height="909" key="find.popup/0.0.1858.1080@0.0.1858.1080" timestamp="1578414274967" />
+    <state x="311" y="161" key="new project wizard" timestamp="1579628914349">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="311" y="161" key="new project wizard/0.0.1858.1080@0.0.1858.1080" timestamp="1579628914349" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/testNG.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FullStackCourse$C__Automation_FullStackCourse_SeleniumCourse_TestNGSuite_xml.ic" NAME="$PROJECT_DIR$/SeleniumCourse/TestNGSuite.xml Coverage Results" MODIFIED="1579626988741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
